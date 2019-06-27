@@ -16,10 +16,5 @@
   "bugs": {
     "url": "https://github.com/Mateusdml/React/issues"
   },
-  "homepage": "https://github.com/Mateusdml/React#readme",
-  "devDependencies": {
-    "eslint": "^6.0.1",
-    "eslint-config-airbnb-base": "^13.1.0",
-    "eslint-plugin-import": "^2.18.0"
-  }
+  "homepage": "https://github.com/Mateusdml/React#readme"
 }
