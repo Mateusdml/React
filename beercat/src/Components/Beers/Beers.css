@@ -1,0 +1,7 @@
+.beer-img {
+    object-fit: contain;
+    max-width: 180px;
+    max-height: 286px;
+    align-self: center;
+    display: inline-block;
+}

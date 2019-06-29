@@ -1,7 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import Beerlist from './Components/Beers/Beerlist';
+import Beers from './Components/Beers/Beers';
+import * as serviceWorker from './serviceWorker';
 
-ReactDOM.render(<Beerlist />, document.getElementById('root'));
+ReactDOM.render(<Beers />, document.getElementById('root'));
 
+serviceWorker.unregister();
